@@ -1,4 +1,4 @@
-baseurl = "https://github.com/hiadore/lulapie"
+baseurl = "https://github.com/hiadore/lulapie/tree/master/content/"
 DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
 title = "Lulapie"
